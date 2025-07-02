@@ -62,3 +62,5 @@ Aquí comenzarás a trabajar por tu cuenta, pero te damos algunos TIPs que te pu
 
 + Recuerda determinar bien en qué momentos te conviene utilizar clases y cuándo id. Esto te ayudará a ordenar y unificar tus estilos.
 + Recuerda que dar bordes y colores de fondo a tus elementos puede ser un buen truco para saber dónde están y qué tamaño ocupan al momento de posicionarlos. Luego puedes remover los estilos que no quieres que queden. 
+
+#  LISTOO, realizada y subida en un repositorio
